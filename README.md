@@ -13,3 +13,4 @@ using min-max algorithm
 
 start the app
 You can use expo start or expo build:android expo build:android
+![iphone](https://github.com/user-attachments/assets/912ed5cc-8e37-492d-8255-41ee4ad39929)
